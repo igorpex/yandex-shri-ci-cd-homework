@@ -21,3 +21,4 @@ if (container) {
     </BrowserRouter>
   );
 }
+console.log('index запущен')
