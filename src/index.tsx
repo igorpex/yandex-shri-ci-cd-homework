@@ -22,3 +22,4 @@ if (container) {
   );
 }
 console.log('index запущен')
+console.log('fix1 для index')
